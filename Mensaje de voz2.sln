@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mensaje de voz2", "Mensaje de voz2\Mensaje de voz2.csproj", "{AFF73C8F-56C2-4373-B68C-93BA76F68AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF73C8F-56C2-4373-B68C-93BA76F68AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF73C8F-56C2-4373-B68C-93BA76F68AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF73C8F-56C2-4373-B68C-93BA76F68AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF73C8F-56C2-4373-B68C-93BA76F68AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
